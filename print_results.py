@@ -1,23 +1,3 @@
-#            -The results dictionary as results_dic within print_results 
-#             function and results for the function call within main.
-#            -The results statistics dictionary as results_stats_dic within 
-#             print_results function and results_stats for the function call within main.
-#            -The CNN model architecture as model wihtin print_results function
-#             and in_arg.arch for the function call within main. 
-#            -Prints Incorrectly Classified Dogs as print_incorrect_dogs within
-#             print_results function and set as either boolean value True or 
-#             False in the function call within main (defaults to False)
-#            -Prints Incorrectly Classified Breeds as print_incorrect_breed within
-#             print_results function and set as either boolean value True or 
-#             False in the function call within main (defaults to False)
-#         This function does not output anything other than printing a summary
-#         of the final results.
-# #
-# TODO 6: Define print_results function below, specifically replace the None
-#       below by the function definition of the print_results function. 
-#       Notice that this function doesn't to return anything because it  
-#       prints a summary of the results using results_dic and results_stats_dic
-# 
 def print_results(results_dic, results_stats_dic, model,
                   print_incorrect_dogs=False, print_incorrect_breed=False):
     """
