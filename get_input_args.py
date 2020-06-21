@@ -9,12 +9,7 @@
 #          from the user using the Argparse Python module. If the user fails to 
 #          provide some or all of the 3 inputs, then the default values are
 #          used for the missing inputs. Command Line Arguments:
-#     1. Image Folder as --dir with default value 'pet_images'
-#     2. CNN Model Architecture as --arch with default value 'vgg'
-#     3. Text File with Dog Names as --dogfile with default value 'dognames.txt'
-#
-# #
-# Imports python modules
+
 import argparse
 
 
