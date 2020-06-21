@@ -5,10 +5,13 @@ from torch.autograd import Variable
 import torchvision.models as models
 from torch import __version__
 
+
+
+
 resnet18 = models.resnet18(pretrained=True)
 alexnet = models.alexnet(pretrained=True)
 vgg16 = models.vgg16(pretrained=True)
-
+# ccode
 models = {'resnet': resnet18, 'alexnet': alexnet, 'vgg': vgg16}
 
 # obtain ImageNet labels
@@ -72,4 +75,7 @@ def classifier(img_path, model_name):
     # return index corresponding to predicted class
     pred_idx = output.data.numpy().argmax()
 
+    
+    
+    
     return imagenet_classes_dict[pred_idx]
