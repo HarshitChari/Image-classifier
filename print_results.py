@@ -1,16 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# */AIPND-revision/intropyproject-classify-pet-images/print_results.py
-#                                                                             
-# PROGRAMMER: 
-# DATE CREATED:
-# REVISED DATE: 
-# PURPOSE: Create a function print_results that prints the results statistics
-#          from the results statistics dictionary (results_stats_dic). It 
-#          should also allow the user to be able to print out cases of misclassified
-#          dogs and cases of misclassified breeds of dog using the Results 
-#          dictionary (results_dic).  
-#         This function inputs:
 #            -The results dictionary as results_dic within print_results 
 #             function and results for the function call within main.
 #            -The results statistics dictionary as results_stats_dic within 
