@@ -316,18 +316,14 @@ Pct Corr dog: 100.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:  80.0
  ** Check Statistics - calculated from this function as a check:
 N Images: 40  N Dog Images: 30  N NotDog Images: 10 
 Pct Corr dog: 100.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:  80.0
-
  ** Printing Results:
 CNN model architecture: alexnet
-
 Number of images: 40
 Number of dog images: 30
 Number of 'Not-a' Dog images: 10
-
 % Correct 'Not-a' Dog: 100.00
 % Correct Dogs: 100.00
 % Correct Breed: 80.00
 % Incorrect Dogs: 0.00
 % Incorrect Breed: 20.00
-
 ** Total Elapsed Runtime: 0:0:11
