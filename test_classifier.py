@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# */AIPND-revision/intropyproject-classify-pet-images/test_classifier.py
-#                                                                             
-# PROGRAMMER: Jennifer S.                                                    
-# DATE CREATED: 01/30/2018                                  
+                              
 # REVISED DATE:             <=(Date Revised - if any)                         
 # PURPOSE: To demonstrate the proper usage of the classifier() function that 
 #          is defined in classifier.py This function uses CNN model 
