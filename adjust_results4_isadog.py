@@ -1,20 +1,7 @@
                                                                            
 # PROGRAMMER: Harshit Chari
 # DATE CREATED:                                 
-# REVISED DATE: 
-# PURPOSE: Create a function adjust_results4_isadog that adjusts the results 
-#          dictionary to indicate whether or not the pet image label is of-a-dog, 
-#          and to indicate whether or not the classifier image label is of-a-dog.
-#          All dog labels from both the pet images and the classifier function
-#          will be found in the dognames.txt file. We recommend reading all the
-#          dog names in dognames.txt into a dictionary where the 'key' is the 
-#          dog name (from dognames.txt) and the 'value' is one. If a label is 
-#          found to exist within this dictionary of dog names then the label 
-#          is of-a-dog, otherwise the label isn't of a dog. Alternatively one 
-#          could also read all the dog names into a list and then if the label
-#          is found to exist within this list - the label is of-a-dog, otherwise
-#          the label isn't of a dog. 
-#         This function inputs:
+# REVISED DATE: #         This function inputs:
 #            -The results dictionary as results_dic within adjust_results4_isadog 
 #             function and results for the function call within main.
 #            -The text file with dog names as dogfile within adjust_results4_isadog
