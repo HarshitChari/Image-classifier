@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# */AIPND-revision/intropyproject-classify-pet-images/adjust_results4_isadog.py
-#                                                                             
+                                                                           
 # PROGRAMMER: Harshit Chari
 # DATE CREATED:                                 
 # REVISED DATE: 
