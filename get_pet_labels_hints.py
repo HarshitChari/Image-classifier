@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# */AIPND-revision/intropyproject-classify-pet-images/get_pet_labels_hints.py
-#                                                                             
-# PROGRAMMER: 
-# DATE CREATED:                                  
+                              
 # REVISED DATE: 
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function get_pet_labels that creates the pet labels from the image's
@@ -64,7 +59,7 @@ def get_pet_labels(image_dir):
            pet_label = ""
 
            # TODO: 2a. BELOW REPLACE pass with CODE that will process each 
-           #          filename in the in_files list to extract the dog breed 
+
            #          name from the filename. Recall that each filename can be
            #          accessed by in_files[idx]. Be certain to place the 
            #          extracted dog breed name in the variable pet_label 
