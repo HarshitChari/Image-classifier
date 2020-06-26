@@ -1,9 +1,4 @@
 
-#       function. Specifically EDIT and ADD code to define the 
-#       adjust_results4_isadog function. Notice that this function doesn't return
-#       anything because the results_dic dictionary that is passed into the 
-#       function is a mutable data type so no return is needed.
-# 
 def adjust_results4_isadog(results_dic, dogfile):
     """
     Adjusts the results dictionary to determine if classifier correctly 
