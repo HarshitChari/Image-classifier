@@ -1,12 +1,4 @@
-#            -The results dictionary as results_dic within adjust_results4_isadog 
-#             function and results for the function call within main.
-#            -The text file with dog names as dogfile within adjust_results4_isadog
-#           at indices 3 & 4 to 1 when the label is of-a-dog and to 0 when the 
-#           label isn't a dog.
-#
-# #
-# TODO 4: EDIT and ADD code BELOW to do the following that's stated in the 
-#       comments below that start with "TODO: 4" for the adjust_results4_isadog 
+
 #       function. Specifically EDIT and ADD code to define the 
 #       adjust_results4_isadog function. Notice that this function doesn't return
 #       anything because the results_dic dictionary that is passed into the 
