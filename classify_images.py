@@ -1,8 +1,3 @@
-                                                                         
-# PROGRAMMER: 
-# DATE CREATED:                                 
-# REVISED DATE: 
-# PURPOSE: Create a function classify_images that uses the classifier function 
 #          to create the classifier labels and then compares the classifier 
 #          labels to the pet image labels. This function inputs:
 #            -The Image Folder as image_dir within classify_images and function 
