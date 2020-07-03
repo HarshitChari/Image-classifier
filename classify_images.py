@@ -1,7 +1,3 @@
-#          to create the classifier labels and then compares the classifier 
-#          labels to the pet image labels. This function inputs:
-#            -The Image Folder as image_dir within classify_images and function 
-#             and as in_arg.dir for function call within main. 
 #            -The results dictionary as results_dic within classify_images 
 #             function and results for the functin call within main.
 #            -The CNN model architecture as model within classify_images function
