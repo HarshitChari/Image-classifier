@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# */AIPND-revision/intropyproject-classify-pet-images/classify_images.py
-#                                                                             
+                                                                         
 # PROGRAMMER: 
 # DATE CREATED:                                 
 # REVISED DATE: 
