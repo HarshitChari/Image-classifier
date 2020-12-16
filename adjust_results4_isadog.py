@@ -8,7 +8,7 @@ def adjust_results4_isadog(results_dic, dogfile):
                   index 1 = classifier label (string)
                   index 2 = 1/0 (int)  where 1 = match between pet image
                     and classifer labels and 0 = no match between labels
-                ------ where index 3 & index 4 are added by this function -----
+                ------ where index 3 & index 4 are added by this function ---
                  NEW - index 3 = 1/0 (int)  where 1 = pet image 'is-a' dog and 
                             0 = pet Image 'is-NOT-a' dog. 
                  NEW - index 4 = 1/0 (int)  where 1 = Classifier classifies image 
