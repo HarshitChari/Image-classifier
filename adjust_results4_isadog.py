@@ -1,10 +1,6 @@
 
 def adjust_results4_isadog(results_dic, dogfile):
     """
-    Adjusts the results dictionary to determine if classifier correctly 
-    classified images 'as a dog' or 'not a dog' especially when not a match. 
-    Demonstrates if model architecture correctly classifies dog images even if
-    it gets dog breed wrong (not a match).
     Parameters:
       results_dic - Dictionary with 'key' as image filename and 'value' as a 
                     List. Where the list will contain the following items: 
