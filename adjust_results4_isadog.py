@@ -25,11 +25,6 @@ def adjust_results4_isadog(results_dic, dogfile):
     Returns:
            None - results_dic is mutable data type so no return needed.
     """    
-   
-
-
-    # Creates dognames dictionary for quick matching to results_dic labels from
-    # real answer & classifier's answer
     dognames_dic = dict()
 
     # Reads in dognames from file, 1 name per line & automatically closes file
