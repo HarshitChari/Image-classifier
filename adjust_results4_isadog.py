@@ -1,5 +1,6 @@
 
 def adjust_results4_isadog(results_dic, dogfile):
+    
     """
     Parameters:
       results_dic - Dictionary with 'key' as image filename and 'value' as a 
