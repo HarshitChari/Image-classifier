@@ -88,7 +88,7 @@ def classify_images(images_dir, results_dic, model):
        #           of model_label. Be certain the resulting processed string 
        #           is named model_label.
        #
-       # Processes the results so they can be compared with pet image labels
+       # Processes the  results so they can be compared with pet image labels
        # set labels to lowercase (lower) and stripping off whitespace(strip)
        pass
               
