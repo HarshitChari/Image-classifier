@@ -1,6 +1,5 @@
 
-def adjust_results4_isadog(results_dic, dogfile):
-    
+def adjust_results4_isadog(results_dic, dogfile):    
     """
     Parameters:
       results_dic - Dictionary with 'key' as image filename and 'value' as a 
@@ -38,7 +37,7 @@ def adjust_results4_isadog(results_dic, dogfile):
         # Reads in dognames from first line in file
         line = infile.readline()
 
-        # Processes each line in file until reaching EOF (end-of-file) by 
+        
         # processing line and adding dognames to dognames_dic with while loop
         while line != "":
 
