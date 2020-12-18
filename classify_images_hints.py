@@ -8,7 +8,7 @@
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function classify_images that uses the classifier function 
 #          to create the classifier labels and then compares the classifier 
-#          labels to the pet image labels. This function inputs:
+#          labels to the pet image labels.  This function inputs:
 #            -The Image Folder as image_dir within classify_images and function 
 #             and as in_arg.dir for function call within main. 
 #            -The results dictionary as results_dic within classify_images 
@@ -43,7 +43,7 @@ def classify_images(images_dir, results_dic, model):
     For example, the Classifier function returns = 'Maltese dog, Maltese terrier, Maltese' 
     so the classifier label = 'maltese dog, maltese terrier, maltese'.
     Recall that dog names from the classifier function can be a string of dog 
-    names separated by commas when a particular breed of dog has multiple dog 
+    names separated by commas when a  particular breed of dog has multiple dog 
     names associated with that breed. For example, you will find pet images of
     a 'dalmatian'(pet label) and it will match to the classifier label 
     'dalmatian, coach dog, carriage dog' if the classifier function correctly 
@@ -61,7 +61,7 @@ def classify_images(images_dir, results_dic, model):
                 --- where index 1 & index 2 are added by this function ---
                   NEW - index 1 = classifier label (string)
                   NEW - index 2 = 1/0 (int)  where 1 = match between pet image
-                    and classifer labels and 0 = no match between labels
+                    and classifer  labels and 0 = no match between labels
       model - Indicates which CNN model architecture will be used by the 
               classifier function to classify the pet images,
               values must be either: resnet alexnet vgg (string)
